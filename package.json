@@ -33,7 +33,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://zeroslee21.github.io/kangjiung_app",
+  "homepage": ".",
   "devDependencies": {
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
