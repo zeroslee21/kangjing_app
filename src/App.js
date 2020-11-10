@@ -9,9 +9,13 @@ import About from "./routes/About";
 
 function App() {
   return (
-    <div className="test">
-      <h1> test</h1>
-    </div>
+    <HashRouter>
+      <Navigation />
+      <Route path="/" exact={true} component={Kang}></Route>
+      <Route path="/About2" component={About2} />
+      <Route path="/About" component={About} />
+      <Route path="/detail" component={Detail} />
+    </HashRouter>
   );
 }
 
