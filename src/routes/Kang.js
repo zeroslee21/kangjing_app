@@ -11,7 +11,9 @@ function Kang({ title, job, years_old, cnlal }) {
         }}
       >
         <img
-          src="https://lh3.googleusercontent.com/KLnk8gEVPMWo52ngZl_z3nsvPUGpKeLUGLMCT8eOqbyo7wQJLypxKNitRhNIUicAqaQMB8_1IQWSzQQK8if5nC-YV3pGFbbqECbHaIg9bguyLFfNjm5ibq4NNQcEzugiHRC3bTcL=w2400"
+          src={
+            "https://lh3.googleusercontent.com/KLnk8gEVPMWo52ngZl_z3nsvPUGpKeLUGLMCT8eOqbyo7wQJLypxKNitRhNIUicAqaQMB8_1IQWSzQQK8if5nC-YV3pGFbbqECbHaIg9bguyLFfNjm5ibq4NNQcEzugiHRC3bTcL=w2400"
+          }
           alt="이 앱을 만든 프로그래머 사진"
           title="이 앱을 만든 프로그래머"
         />
@@ -34,26 +36,20 @@ function Kang({ title, job, years_old, cnlal }) {
             부터 시작해서 <a href="https://scratch.mit.edu">스크래치</a>, html,
             자바스크립트를 했다. 지금은 react(리액트)를 하고 있다. 리액트로 처음
             만든 앱은{" "}
-            <a
-              href="https://jing341.github.io/movie_app_2020"
-              rel="noopener"
-              target="_blank"
-            >
-              영화앱
-            </a>
+            <a href={"https://jing341.github.io/movie_app_2020"}>영화앱</a>
             이고 이 앱은 2번째로 만든 나를 소개하는 앱이다.
             <a
-              href="https://lh3.googleusercontent.com/EkeQlbicAXYa1LO9RudtgWggZr4nranpfvAqatPrPujUQftyjt7-NQn9mLqBIgPHBkpIfNeztiB664-0uc9q-ASYEE-B5TbZvcfi5b6D5_LlwuV-I7WFM0m9Rn9S0_kEwfeY852lIQ=w2400"
-              rel="noopener"
-              target="_blank"
+              href={
+                "https://lh3.googleusercontent.com/EkeQlbicAXYa1LO9RudtgWggZr4nranpfvAqatPrPujUQftyjt7-NQn9mLqBIgPHBkpIfNeztiB664-0uc9q-ASYEE-B5TbZvcfi5b6D5_LlwuV-I7WFM0m9Rn9S0_kEwfeY852lIQ=w2400"
+              }
             >
               나는 크레스티드 게코(도마뱀)
             </a>{" "}
             2마리, 사슴벌레 5마리 그리고{" "}
             <a
-              href="https://cdn.crowdpic.net/detail-thumb/thumb_d_96287DAC2FA0AB4AF87452A536524CEC.jpg"
-              rel="noopener"
-              target="_blank"
+              href={
+                "https://cdn.crowdpic.net/detail-thumb/thumb_d_96287DAC2FA0AB4AF87452A536524CEC.jpg"
+              }
             >
               리버쿠터(거북이)
             </a>{" "}
