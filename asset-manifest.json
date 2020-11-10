@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kangjiung_app/static/css/main.d8efe4cd.chunk.css",
-    "main.js": "/kangjiung_app/static/js/main.a2e9e12c.chunk.js",
-    "main.js.map": "/kangjiung_app/static/js/main.a2e9e12c.chunk.js.map",
+    "main.js": "/kangjiung_app/static/js/main.7f4cb65d.chunk.js",
+    "main.js.map": "/kangjiung_app/static/js/main.7f4cb65d.chunk.js.map",
     "runtime-main.js": "/kangjiung_app/static/js/runtime-main.62164de3.js",
     "runtime-main.js.map": "/kangjiung_app/static/js/runtime-main.62164de3.js.map",
     "static/js/2.0fc142cb.chunk.js": "/kangjiung_app/static/js/2.0fc142cb.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.62164de3.js",
     "static/js/2.0fc142cb.chunk.js",
     "static/css/main.d8efe4cd.chunk.css",
-    "static/js/main.a2e9e12c.chunk.js"
+    "static/js/main.7f4cb65d.chunk.js"
   ]
 }
