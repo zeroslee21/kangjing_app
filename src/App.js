@@ -11,7 +11,6 @@ function App() {
   return (
     <HashRouter>
       <Navigation />
-      <Route path="/" exact={true} component={Kang}></Route>
       <Route path="/About2" component={About2} />
       <Route path="/About" component={About} />
       <Route path="/detail" component={Detail} />
