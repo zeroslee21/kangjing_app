@@ -1,2 +1,1 @@
-# Movie App 2020
-React JS Fundamentals Course (2020 Update!)git
+나를 소개하는앱 
